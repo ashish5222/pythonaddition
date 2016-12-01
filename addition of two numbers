@@ -1,0 +1,5 @@
+a=eval(input("enter your first number))
+b=eval(input("enter your second number))
+c=a+b
+print("addition of 2 numbers is",c)
+print("press any key")
